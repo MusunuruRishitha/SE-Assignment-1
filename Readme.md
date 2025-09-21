@@ -20,21 +20,11 @@ Our program doesn't try to disprove it, but instead finds cases where `x^n + y^n
 ## How to Run
 Run the program using Python 3:
 ```bash
-python fermat_near_miss_v1.py
+python fermat_near_miss.py
 ```
 Then provide inputs when prompted:
 - Exponent n (between 3 and 11)
 - Upper bound k (> 10)
-
-## Example Run
-```
-Enter the value of n (2 < n < 12): 3
-Enter the value of k (k > 10): 20
-x: 10, y: 10, z: 14, Miss: 4, Relative Miss: 0.0001830
-...
-Smallest Relative Miss Found:
-x: 10, y: 10, z: 14, Miss: 4, Relative Miss: 0.0001830
-```
 
 ## Requirements
 - Python 3 installed.
