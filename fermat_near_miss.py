@@ -1,5 +1,5 @@
 """
-Fermat Near Miss Finder - Version 1
+Fermat Near Miss Finder
 
 This program searches for near misses of Fermat's Last Theorem:
 x^n + y^n ≈ z^n  for n > 2
